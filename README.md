@@ -5,7 +5,7 @@
 ![image](https://github.com/Vokhanh12/DesignPattern/assets/36543564/c6d2d609-7a2c-4c03-8119-5f854cfebb5f)
 
 
-example: TeachingStrategy
+=> example: TeachingStrategy
 
 
 
