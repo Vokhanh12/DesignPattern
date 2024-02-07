@@ -1,0 +1,15 @@
+/home/vokhanh/development/DesignPattern/ChatRoomObserver/bin/Debug/net6.0/ChatRoomObserver
+/home/vokhanh/development/DesignPattern/ChatRoomObserver/bin/Debug/net6.0/ChatRoomObserver.deps.json
+/home/vokhanh/development/DesignPattern/ChatRoomObserver/bin/Debug/net6.0/ChatRoomObserver.runtimeconfig.json
+/home/vokhanh/development/DesignPattern/ChatRoomObserver/bin/Debug/net6.0/ChatRoomObserver.dll
+/home/vokhanh/development/DesignPattern/ChatRoomObserver/bin/Debug/net6.0/ref/ChatRoomObserver.dll
+/home/vokhanh/development/DesignPattern/ChatRoomObserver/bin/Debug/net6.0/ChatRoomObserver.pdb
+/home/vokhanh/development/DesignPattern/ChatRoomObserver/obj/Debug/net6.0/ChatRoomObserver.csproj.AssemblyReference.cache
+/home/vokhanh/development/DesignPattern/ChatRoomObserver/obj/Debug/net6.0/ChatRoomObserver.GeneratedMSBuildEditorConfig.editorconfig
+/home/vokhanh/development/DesignPattern/ChatRoomObserver/obj/Debug/net6.0/ChatRoomObserver.AssemblyInfoInputs.cache
+/home/vokhanh/development/DesignPattern/ChatRoomObserver/obj/Debug/net6.0/ChatRoomObserver.AssemblyInfo.cs
+/home/vokhanh/development/DesignPattern/ChatRoomObserver/obj/Debug/net6.0/ChatRoomObserver.csproj.CoreCompileInputs.cache
+/home/vokhanh/development/DesignPattern/ChatRoomObserver/obj/Debug/net6.0/ChatRoomObserver.dll
+/home/vokhanh/development/DesignPattern/ChatRoomObserver/obj/Debug/net6.0/ref/ChatRoomObserver.dll
+/home/vokhanh/development/DesignPattern/ChatRoomObserver/obj/Debug/net6.0/ChatRoomObserver.pdb
+/home/vokhanh/development/DesignPattern/ChatRoomObserver/obj/Debug/net6.0/ChatRoomObserver.genruntimeconfig.cache
